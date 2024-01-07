@@ -1,0 +1,5 @@
+# 微信阅读在线语音转换
+DOMAIN,weixin.qq.com,REJECT
+DOMAIN,weread.qq.com,REJECT
+DOMAIN,ae.weixin.qq.com,REJECT
+DOMAIN,ap-shanghai.cls.tencentcs.com,REJECT
